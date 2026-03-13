@@ -1,5 +1,5 @@
 # 1. Base image use karein
-FROM python:3.10-slim
+FROM python:3.11-slim
 
 # 2. Working directory set karein
 WORKDIR /app

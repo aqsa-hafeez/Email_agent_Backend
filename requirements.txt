@@ -1,0 +1,8 @@
+python-dotenv
+fastapi
+uvicorn
+supabase
+google-api-python-client
+google-auth-oauthlib
+httpx
+python-multipart
